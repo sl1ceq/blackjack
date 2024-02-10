@@ -12,7 +12,7 @@ class Card:
             return " А23456789".index(self.rank)
 
     def get_rank(self):
-        return f"{self.suit}{self.rank}"
+        return f"{git self.suit}{self.rank}"
     
 
 class DeskCard:
